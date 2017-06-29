@@ -1,6 +1,3 @@
-/**
- * Created by ben on 5/10/17.
- */
 var nodeGit = require('nodegit');
 var path = require('path');
 var fs = require('fs');
@@ -77,3 +74,5 @@ function fullMerge(feature, environment) {
 }
 
 //test
+
+// adding more
