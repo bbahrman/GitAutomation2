@@ -76,3 +76,5 @@ function fullMerge(feature, environment) {
 //test
 
 // adding more
+
+// new line
